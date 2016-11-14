@@ -1,0 +1,2 @@
+# RationalZahlen
+Übungsprojekt zur Objektorientierung
